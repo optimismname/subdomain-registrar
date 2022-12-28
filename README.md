@@ -82,7 +82,7 @@ The intended workflow is as follows:
 
 ## Authors
 
-* **Iskander Bakhtubayev** - [Transform] (https://github.com/0xPhoenix
+* **Iskander Bakhtubayev** - [Transform](https://github.com/0xPhoenix)
 * **Nick Johnson** - [Arachnid](https://github.com/Arachnid)
 * **Dean Eigenmann** - [decanus](https://github.com/decanus)
 
